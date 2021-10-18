@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/entregable1/entregable1.unity
+- path: Assets/entregable.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
